@@ -11,30 +11,55 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+#googleAnalytics = "XXX"  # TODO: Set up Google Analytics.
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
-  logo = "img/avatar-icon.png"
+  subtitle = "A positive vision for housing in Mountain View"
+  logo = "img/avatar-icon.png"  # TODO: Add logos.
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
   comments = true
+  # TODO: Set up Google Custom Search Engine.
+  #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = "Sphere"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
+  desc = "Hexagon"
 
 [Author]
   name = "David Watson"
   twitter = "FifthRocket"
+
+  # External references we might have in the future?
+  # facebook = "username"
+  # reddit = "username"
+  # snapchat = "username"
+  # instagram = "username"
+  # youtube = "user/username" # or channel/channelname
+
+  # External references we'll probably never have.
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx  # Very dead.
+  # We actually do have these but I doubt we'd need to point people to them,
+  # unless maybe if we started drafting docs collaboratively with the public.
+  # gitlab = "username"
+  # github = "username"
+  # linkedin = "username"
+  # xing = "username"
+  # stackoverflow = "users/XXXXXXX/username"
+  # Leaving my dream of woke YIMBY mixtapes at the door :'( .
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # keybase = "username"
 
 [[menu.main]]
     name = "Blog"
