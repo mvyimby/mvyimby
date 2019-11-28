@@ -2,6 +2,8 @@
 
 ---
 
+# Welcome to the Mountain View YIMBY GitLab Repository
+
 Example [Hugo] website using GitLab Pages.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
