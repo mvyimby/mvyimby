@@ -16,7 +16,7 @@ pygmentCodeFences = true
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
   logo = "img/avatar-icon.png"  # TODO: Add logos.
-  favicon = "img/favicon.ico"
+  favicon = "static/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
