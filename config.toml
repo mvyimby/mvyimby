@@ -1,100 +1,84 @@
-baseurl = "https://mountain-view-yimby.gitlab.io"
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
+# TODO: Set up a dedicated domain name
+baseURL = "https://mountain-view-yimby.gitlab.io/mv-yimby-hugo"
+languageCode = "en-us"
 title = "Mountain View YIMBY"
-canonifyurls  = true
+theme = "timer-hugo"
 
-DefaultContentLanguage = "en"
-theme = "beautifulhugo"
-metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"  # TODO: Set up Google Analytics.
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
-[Params]
-  subtitle = "A positive vision for housing in Mountain View"
-  logo = "static/sb-yimby-logo.png"  # TODO: check dimensions and color.
-  favicon = "static/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
-  # TODO: Set up Google Custom Search Engine.
-  #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "contact"
+        weight  = 4
 
-[[Params.bigimg]]
-  src = "img/triangle.jpg"
-  desc = "Triangle"
-[[Params.bigimg]]
-  src = "img/sphere.jpg"
-  desc = "Sphere"
-[[Params.bigimg]]
-  src = "img/hexagon.jpg"
-  desc = "Hexagon"
+# Site Params
+[params]
+    home = "Home"
+    logo = "static/sb-yimby-logo.png"  # TODO: check dimensions and color
+    dateFormat = "January 6, 2006"
+    # Meta data
+    description = "Public site for Mountain View YIMBY."
+    author = "MV YIMBY"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
 
-[Author]
-  name = "David Watson"
-  twitter = "FifthRocket"
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "HI, MY NAME IS JONATHON & I AM A"
+        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        btn     = true
+        btnText = "Download More"
+        btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "DESIGNER"
+        [[params.banner.flipText]]
+            title   = "DEVELOPER"
+        [[params.banner.flipText]]
+            title   = "FATHER"
 
-  # External references we might have in the future?
-  # facebook = "username"
-  # reddit = "username"
-  # snapchat = "username"
-  # instagram = "username"
-  # youtube = "user/username" # or channel/channelname
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        image   = "images/about/about.jpg"
 
-  # External references we'll probably never have.
-  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx  # Very dead.
-  # We actually do have these but I doubt we'd need to point people to them,
-  # unless maybe if we started drafting docs collaboratively with the public.
-  # gitlab = "username"
-  # github = "username"
-  # linkedin = "username"
-  # xing = "username"
-  # stackoverflow = "users/XXXXXXX/username"
-  # Leaving my dream of woke YIMBY mixtapes at the door :'( .
-  # soundcloud = "username"
-  # spotify = "username"
-  # bandcamp = "username"
-  # itchio = "username"
-  # keybase = "username"
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "SO WHAT YOU THINK ?"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact with me"
+        btnURL  = "/contact"
 
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
+    [params.footer]
+        [[params.footer.socialIcon]]
+            icon = "ion-social-facebook"
+            url = "#"
 
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
+        [[params.footer.socialIcon]]
+            icon = "ion-social-instagram"
+            url = "#"
 
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
+        [[params.footer.socialIcon]]
+            icon = "ion-social-linkedin"
+            url = "#"
