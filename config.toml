@@ -1,84 +1,72 @@
 # TODO: Set up a dedicated domain name
 baseURL = "https://mountain-view-yimby.gitlab.io/mv-yimby-hugo"
 languageCode = "en-us"
+# TODO: Debug why the title isn't showing up.
 title = "Mountain View YIMBY"
 theme = "timer-hugo"
 
-# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+[menu]  # Top menu bar.
+  [[menu.nav]]
+    name    = "About"
+    url     = "about"
+    weight  = 2  # Controls ordering.
+  [[menu.nav]]
+    name    = "Values"
+    url     = "values"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Contact"
+    url     = "contact"
+    weight  = 5
 
-# Site Menus
-[menu]
-    # Navbar Menus
-    [[menu.nav]]
-        name    = "About"
-        url     = "about"
-        weight  = 2
-    [[menu.nav]]
-        name    = "Blog"
-        url     = "blog"
-        weight  = 3
-    [[menu.nav]]
-        name    = "Contact"
-        url     = "contact"
-        weight  = 4
+[params]  # Site Params
+  home = "Home"
+  # TODO: Downsize the logo or fix CSS (it's too big for the template).
+  logo = "images/sb-yimby-logo.png"
+  dateFormat = "January 6, 2006"
+  # Meta data
+  description = "Public site for Mountain View YIMBY."
+  author = "MV YIMBY"
+  googleAnalitycsID = "Your ID"  # TODO: Set up Google Analytics.
 
-# Site Params
-[params]
-    home = "Home"
-    logo = "static/sb-yimby-logo.png"  # TODO: check dimensions and color
-    dateFormat = "January 6, 2006"
-    # Meta data
-    description = "Public site for Mountain View YIMBY."
-    author = "MV YIMBY"
-    # Google Analitycs
-    googleAnalitycsID = "Your ID"
+  [params.banner]  # Banner Section
+    enable  = true
+    bgImage = "images/mountain-view-osm.png"
+    heading = "We are Mountain View YIMBY"
+    description = "We are committed to a positive vision of housing for Mountain View."
 
-    # Banner Section
-    [params.banner]
-        enable  = true
-        bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS JONATHON & I AM A"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
-        btn     = true
-        btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
-        [[params.banner.flipText]]
-            title   = "DESIGNER"
-        [[params.banner.flipText]]
-            title   = "DEVELOPER"
-        [[params.banner.flipText]]
-            title   = "FATHER"
+    # CSS gets a bit messed up if these aren't all the same length.
+    [[params.banner.flipText]]
+      title = "AFFORDABLE"
+    [[params.banner.flipText]]
+      title = "ACCESSIBLE"
+    [[params.banner.flipText]]
+      title = "EQUITABLE"
 
-    # Homepage About Section
-    [params.about]
-        enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-        image   = "images/about/about.jpg"
+  [params.about]  # Homepage About Section
+    enable  = true
+    title   = "About Us"
+    content = "We are an offshoot of <a href=https://southbayyimby.wordpress.com/>South Bay YIMBY</a>."
+    image   = "images/about/about.jpg"
 
-    # Call to Action
-    [params.cta]
-        enable  = true
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
-        btnURL  = "/contact"
+  [params.cta]  # Call to Action
+    enable  = true
+    title   = "Ready to pitch in?"
+    content = "Help make Mountain View an affordable place to live for everyone."
+    btnText = "Get Involved"
+    btnURL  = "/signup"
 
-    # Portfolio Section On Homepage
-    [params.portfolio]
-        enable  = true
-        title   = "Latest Works"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+  [params.footer]
 
-    [params.footer]
-        [[params.footer.socialIcon]]
-            icon = "ion-social-facebook"
-            url = "#"
+    # Icon font info: https://ionicons.com
+    [[params.footer.socialIcon]]
+      icon = "ion-social-facebook"
+      url = "#"
 
-        [[params.footer.socialIcon]]
-            icon = "ion-social-instagram"
-            url = "#"
-
-        [[params.footer.socialIcon]]
-            icon = "ion-social-linkedin"
-            url = "#"
+    [[params.footer.socialIcon]]
+      icon = "ion-social-twitter"
+      url = "#"
