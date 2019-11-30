@@ -1,8 +1,7 @@
 # TODO: Set up a dedicated domain name
 baseURL = "https://mountain-view-yimby.gitlab.io/mv-yimby-hugo"
 languageCode = "en-us"
-# TODO: Debug why the title isn't showing up.
-title = "Mountain View YIMBY"
+# title = "Mountain View YIMBY"  # Set directly in layouts/partials/head.html.
 theme = "timer-hugo"
 
 [menu]  # Top menu bar.
