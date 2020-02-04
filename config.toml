@@ -16,8 +16,8 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
-  logo = "/static/sb-yimby-logo.png"  # TODO: check dimensions and color.
-  favicon = "/static/favicon.ico"
+  logo = "/sb-yimby-logo.png"  # TODO: check dimensions and color.
+  favicon = "/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
