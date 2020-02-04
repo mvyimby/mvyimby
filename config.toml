@@ -2,6 +2,7 @@ baseurl = "https://mountain-view-yimby.gitlab.io"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
+staticdir     = "static"
 title = "Mountain View YIMBY"
 canonifyurls  = true
 
