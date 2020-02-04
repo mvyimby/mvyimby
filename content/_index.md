@@ -7,3 +7,6 @@ The Bay Area is not “full.” This shortage is a political problem:
 Zoning and other restrictions have prevented construction of enough
 places for people to live.  We want to fix this and make our community
 a more welcoming and inclusive one. Let’s legalize housing.
+
+![Example image](/static/sb-yimby-logo.png)
+
