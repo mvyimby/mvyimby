@@ -1,9 +1,9 @@
-## Front Page Content
+## Yes In My Back Yard
+We are Mountain View YIMBY, agitating for more housing in our city and beyond.
+We are Mountain View residents and workers who seek solutions to our area’s
+housing shortage.
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
-
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+The Bay Area is not “full.” This shortage is a political problem:
+Zoning and other restrictions have prevented construction of enough
+places for people to live.  We want to fix this and make our community
+a more welcoming and inclusive one. Let’s legalize housing.
