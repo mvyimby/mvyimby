@@ -1,4 +1,4 @@
-baseurl = "https://mountain-view-yimby.gitlab.io/"
+baseurl = "http://mvyimby.com/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
