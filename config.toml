@@ -26,14 +26,14 @@ pygmentCodeFences = true
   #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/triangle.jpg"
-  desc = "Triangle"
+  src = "img/IMG_4009-wide.jpg"
+  desc = "Homes"
 [[Params.bigimg]]
-  src = "img/sphere.jpg"
-  desc = "Sphere"
+  src = "img/IMG_4213-wide.jpg"
+  desc = "Homes and Trees"
 [[Params.bigimg]]
-  src = "img/hexagon.jpg"
-  desc = "Hexagon"
+  src = "img/IMG_7781-wide.jpg"
+  desc = "Homes and Transit"
 
 [Author]
   name = "David Watson"
