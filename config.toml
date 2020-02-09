@@ -62,6 +62,11 @@ googleAnalytics = "UA-158028362-1"
   # itchio = "username"
   # keybase = "username"
 
+# To allow Youtube Embeds, among other things
+# see: https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
+[markup.goldmark.renderer]
+  unsafe= true
+
 [[menu.main]]
     name = "Blog"
     url = ""
