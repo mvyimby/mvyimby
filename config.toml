@@ -16,7 +16,7 @@ googleAnalytics = "UA-158028362-1"
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
-  logo = "/sb-yimby-logo.png"  # TODO: check dimensions and color.
+  logo = "/mv-yimby-logo.png"  # TODO: check dimensions and color.
   favicon = "/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
