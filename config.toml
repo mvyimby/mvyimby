@@ -12,7 +12,7 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
-#googleAnalytics = "UA-158028362-1"
+googleAnalytics = "UA-158028362-1"
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
