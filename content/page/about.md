@@ -6,7 +6,7 @@ comments: false
 
 ## What YIMBY Means
 
-YIMBY means "Yes In My Back Yard". The term gained it's modern meaning in the
+YIMBY means "Yes In My Back Yard". The term gained its modern meaning in the
 early 2000s in the SF Bay Area due to high housing costs. More information
 about the general term can be found [here].
 
