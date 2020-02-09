@@ -9,10 +9,10 @@ Zoning and other restrictions have prevented construction of enough
 places for people to live.  We want to fix this and make our community
 a more welcoming and inclusive one. Let’s legalize housing.
 
-We are affiliated with _[South Bay YIMBY]_, who work throughout Santa Clara
-County, _[YIMBY Action]_, who are based in San Francisco, as well as, 
-_Peninsula Forward_, who handle San Mateo County.
+We are affiliated with [South Bay YIMBY], who work throughout Santa Clara
+County, [YIMBY Action], who are based in San Francisco, as well as, 
+[Peninsula for Everyone], who handle San Mateo County.
 
 [South Bay YIMBY]:https://southbayyimby.wordpress.com/
 [YIMBY Action]:https://yimbyaction.org/
-
+[Peninsula For Everyone]:https://peninsulaforeveryone.org/
