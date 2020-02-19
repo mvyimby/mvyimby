@@ -1,6 +1,6 @@
 ---
 title: Obama is a YIMBY!
-date: 2020-02-19
+date: 2020-02-19T10:00:00-09:00
 draft: false
 type: post
 ---
