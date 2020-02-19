@@ -84,7 +84,7 @@ googleAnalytics = "UA-158028362-1"
 
 [[menu.main]]
     name = "2020 Endorsements"
-    url = "post/2020-02-09-endorsements"
+    url = "post/2020-02-18-march-voting-guide"
     weight = 1
 
 # [[menu.main]]
