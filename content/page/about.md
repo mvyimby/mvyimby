@@ -1,5 +1,6 @@
 ---
 title: About Us
+date: 2019-01-01
 subtitle: Mountain View YIMBY
 comments: false
 ---
