@@ -1,6 +1,6 @@
 ---
 title: Endorsing Shelly Masur
-date: 2020-02-09
+date: 2020-02-09T10:00:00-08:00
 draft: false
 type: post
 author: Mountain View YIMBY
