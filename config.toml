@@ -1,4 +1,4 @@
-baseurl = "http://mvyimby.com/"
+baseurl = "https://mvyimby.com/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
