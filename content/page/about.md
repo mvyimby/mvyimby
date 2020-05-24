@@ -1,19 +1,14 @@
 ---
-title: About me
-subtitle: Why you'd want to hang out with me
+title: About Us
+date: 2019-01-01
+subtitle: Mountain View YIMBY
 comments: false
 ---
 
-My name is The Dude. I have the following qualities:
+## What YIMBY Means
 
-- I rock a great beard
-- I'm extremely loyal to my friends
-- I like bowling
+YIMBY means "Yes In My Back Yard". The term gained its modern meaning in the
+early 2000s in the SF Bay Area due to high housing costs. More information
+about the general term can be found [here].
 
-That rug really tied the room together.
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you
-just watch [my movie](https://en.wikipedia.org/wiki/The_Big_Lebowski) and it
-will answer **all** your questions.
+[here]:https://en.wikipedia.org/wiki/YIMBY
