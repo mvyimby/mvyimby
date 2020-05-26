@@ -12,7 +12,7 @@ The results are in from the Primary election for Mountain View.
 
 ### State Senate - District 13
 
-Our endorsed candidate for State Senate race, Shelly Masur, will not continue into the General Election in the Fall. It will be a match up between Josh Becker and Alex Glew. We thank Redwood City Councilmember Shelly Masur for boldly taking pro-housing stances, such as supporting SB-50 and were proud to endorse her.
+Our endorsed candidate for State Senate race, Shelly Masur, will not continue into the General Election in the Fall. It will be a match up between Josh Becker and Alex Glew. We thank Redwood City Councilmember Shelly Masur for boldly taking pro-housing stances, including supporting SB-50, and we were proud to endorse her.
 
 ### Measure D 
 
