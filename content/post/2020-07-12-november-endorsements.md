@@ -1,6 +1,6 @@
 ---
 title: November 2020 Endorsements
-date: 2020-07-12T20:00:00-08:00
+date: 2020-07-12T10:00:00-08:00
 draft: false
 type: post
 author: David Watson
