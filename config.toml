@@ -68,7 +68,7 @@ googleAnalytics = "UA-158028362-1"
   unsafe= true
 
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = ""
     weight = 1
 
@@ -84,7 +84,7 @@ googleAnalytics = "UA-158028362-1"
 
 [[menu.main]]
     name = "2020 Endorsements"
-    url = "post/2020-02-18-march-voting-guide"
+    url = "post/2020-07-12-november-endorsements"
     weight = 1
 
 # [[menu.main]]
