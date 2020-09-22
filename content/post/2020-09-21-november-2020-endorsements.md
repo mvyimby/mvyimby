@@ -10,9 +10,9 @@ author: David Watson
 
 We've completed our endorsement process. Here are our official endorsements for Mountain View City Council!
 
-### Alex Nuñez
+### Alex Núñez
 
-Alex Nuñez is a strong housing and anti-displacement advocate in Mountain View. He supports building affordable housing for low- and middle-income workers; exploring additional business taxes to support BMR construction; and a strong Right of Return policy coupled with No-Net-Loss development standards.
+Alex Núñez is a strong housing and anti-displacement advocate in Mountain View. He supports building affordable housing for low- and middle-income workers; exploring additional business taxes to support BMR construction; and a strong Right of Return policy coupled with No-Net-Loss development standards.
 
 To learn more about Alex, get involved, or donate, please visit his campaign page.
 
