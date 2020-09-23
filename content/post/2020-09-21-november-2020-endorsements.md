@@ -14,7 +14,7 @@ We've completed our endorsement process. Here are our official endorsements for 
 
 Alex Núñez is a strong housing and anti-displacement advocate in Mountain View. He supports building affordable housing for low- and middle-income workers; exploring additional business taxes to support BMR construction; and a strong Right of Return policy coupled with No-Net-Loss development standards.
 
-To learn more about Alex, get involved, or donate, please visit his campaign page.
+To learn more about Alex, get involved, or donate, please [visit his campaign page](https://www.alexnunezforcouncil.com/).
 
 ![Alex Nuñez](/nunez.png)
 
@@ -22,7 +22,7 @@ To learn more about Alex, get involved, or donate, please visit his campaign pag
 
 Pat Showalter is a former Mountain View City Council member with experience advocating for housing. She supports streamlining the entitlement and permitting process; finding additional funding sources for affordable housing; and rent control protections for mobile home communities. Pat is active on the League of Women Voter’s Housing Committee and the Mountain View Coalition for Sustainable Housing.
 
-To learn more about Pat, get involved, or donate, please visit her campaign page.
+To learn more about Pat, get involved, or donate, please [visit her campaign page](https://patshowalter.com/).
 
 ![Pat Showalter](/showalter.png)
 
@@ -30,7 +30,7 @@ To learn more about Pat, get involved, or donate, please visit her campaign page
 
 John Lashlee is an experienced housing and tenants’ rights advocate. He believes in an “all of the above” strategy to aggressively build public and private housing; supports expanding Mountain View’s head tax to fund affordable housing; and supports renters’ access to legal representation during eviction proceedings.
 
-To learn more about John, get involved, or donate, please visit his campaign page.
+To learn more about John, get involved, or donate, please [visit his campaign page](https://www.votelashlee.com/).
 
 ![John Lashlee](/lashlee.png)
 
@@ -38,7 +38,7 @@ To learn more about John, get involved, or donate, please visit his campaign pag
 
 Sally Lieber is an experienced local politician and former State Assemblywoman. She supports plex-zoning citywide; increased funding for affordable housing through bonds, land banks, and public/private partnerships; and wants to see rent control expanded to protect mobile home communities. 
 
-To learn more about Sally, get involved, or donate, please visit her campaign page.
+To learn more about Sally, get involved, or donate, please [visit her campaign page](https://www.sallylieber.org/).
 
 ![Sally Lieber](/lieber.png)
 
