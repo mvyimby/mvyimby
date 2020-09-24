@@ -20,7 +20,7 @@ To learn more about Alex, get involved, or donate, please [visit his campaign pa
 
 ### Pat Showalter
 
-Pat Showalter is a former Mountain View City Council member with experience advocating for housing. She supports streamlining the entitlement and permitting process; finding additional funding sources for affordable housing; and rent control protections for mobile home communities. Pat is active on the League of Women Voter’s Housing Committee and the Mountain View Coalition for Sustainable Housing.
+Pat Showalter is a former Mountain View City Council member with experience advocating for housing. She supports streamlining the entitlement and permitting process; finding additional funding sources for affordable housing; and rent control protections for mobile home communities. Pat is active on the League of Women Voters’ Housing Committee and the Mountain View Coalition for Sustainable Housing.
 
 To learn more about Pat, get involved, or donate, please [visit her campaign page](https://patshowalter.com/).
 
