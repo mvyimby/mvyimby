@@ -10,13 +10,16 @@ author: David Watson
 
 We've completed our endorsement process. Here are our official endorsements for Mountain View City Council!
 
+![Alex Nuñez](/nunez.png)
+
 ### Alex Núñez
 
 Alex Núñez is a strong housing and anti-displacement advocate in Mountain View. He supports building affordable housing for low- and middle-income workers; exploring additional business taxes to support BMR construction; and a strong Right of Return policy coupled with No-Net-Loss development standards.
 
 To learn more about Alex, get involved, or donate, please [visit his campaign page](https://www.alexnunezforcouncil.com/).
 
-![Alex Nuñez](/nunez.png)
+
+![Pat Showalter](/showalter.png)
 
 ### Pat Showalter
 
@@ -24,7 +27,7 @@ Pat Showalter is a former Mountain View City Council member with experience advo
 
 To learn more about Pat, get involved, or donate, please [visit her campaign page](https://patshowalter.com/).
 
-![Pat Showalter](/showalter.png)
+![John Lashlee](/lashlee.png)
 
 ### John Lashlee
 
@@ -32,7 +35,7 @@ John Lashlee is an experienced housing and tenants’ rights advocate. He believ
 
 To learn more about John, get involved, or donate, please [visit his campaign page](https://www.votelashlee.com/).
 
-![John Lashlee](/lashlee.png)
+![Sally Lieber](/lieber.png)
 
 ### Sally Lieber
 
@@ -40,8 +43,10 @@ Sally Lieber is an experienced local politician and former State Assemblywoman. 
 
 To learn more about Sally, get involved, or donate, please [visit her campaign page](https://www.sallylieber.org/).
 
-![Sally Lieber](/lieber.png)
 
+## Mountain View Ballot Measures
+
+Mountain View YIMBY is opposing measure C. [Help us stop the RV Ban](http://stopthervban.com/).
 
 ## State Legislation
 
