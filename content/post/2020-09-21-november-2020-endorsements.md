@@ -51,3 +51,6 @@ Mountain View YIMBY is opposing measure C. [Help us stop the RV Ban](http://stop
 ## State Legislation
 
 At Mountain View YIMBY, we're excited to endorse [Prop 15](http://yes15.org/), which closes corporate property tax loopholes.
+
+If you're looking for information about YIMBY Positions throughout the bay area,
+we suggest the [YIMBY Action Endorsements](https://yimbyaction.org/endorsements/)
