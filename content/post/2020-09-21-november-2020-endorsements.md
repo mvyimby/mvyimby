@@ -12,6 +12,8 @@ For Mountain View City Council, we're endorsing
 | [Alex Nuñez](#alex-núñez) | [Pat Showalter](#pat-showalter) | [John Lashlee](#john-lashlee) | [Sally Lieber](#sally-lieber) |
 |---------------------------|---------------------------------|-------------------------------|-------------------------------|
 
+*Other Endorsements*
+
  - [No on Measure C](#mountain-view-ballot-measures)
  - [Yes on Prop 15](#state-legislation)
  
