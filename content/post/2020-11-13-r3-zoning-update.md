@@ -10,19 +10,19 @@ Dear Mayor Abe-Koga and Members of the City Council,
 
 Mountain View YIMBY would like to share our vision for Item 8.1 R3 Zoning District Update.
 
-Overall, we would like to see the city adopt changes to the R3 zoning that make it more _flexible, feasible, and predictable_ in terms of both the total fees and timing of the process. We think this can be achieved via a form-based code. More specifically, we would like to see:
+Overall, we would like to see the city adopt changes to the R3 zoning that make it more **flexible, feasible, and predictable** in terms of both the total fees and timing of the process. We think this can be achieved via a form-based code. More specifically, we would like to see:
 
-_Density limits (limits on dwellings / acre) completely eliminated_. We think this provides developers _flexibility_ on the choice of housing product type that they can pencil out on a parcel based on other limiting factors such as the shape, and size of the building, lot coverage, or setbacks. 
+**Density limits (limits on dwellings / acre) completely eliminated**. We think this provides developers **flexibility** on the choice of housing product type that they can pencil out on a parcel based on other limiting factors such as the shape, and size of the building, lot coverage, or setbacks. 
 
-In service of walkability, an option for _building architectural arcades_ could be given, requiring sheltered sidewalks to be built in return for front setbacks being removed for the area above the resulting pedestrian canopy.
+In service of walkability, an option for **building architectural arcades** could be given, requiring sheltered sidewalks to be built in return for front setbacks being removed for the area above the resulting pedestrian canopy.
 
-Height, lot coverage, and allowable _FAR significantly increased_.
+Height, lot coverage, and allowable **FAR significantly increased**.
 
-_Parking requirements eliminated or reduced_ depending on proximity to transit and downtown. We share council’s dedication to a less car-centric future, and reducing parking requirements is part of that. 
+**Parking requirements eliminated or reduced** depending on proximity to transit and downtown. We share council’s dedication to a less car-centric future, and reducing parking requirements is part of that. 
 
 Side setbacks and open space requirements reduced.
 
-_Park fees reduced, and re-structured_ to remove unpredictability by decoupling them from Mountain View land costs. 
+**Park fees reduced, and re-structured** to remove unpredictability by decoupling them from Mountain View land costs. 
 
 We believe smaller urban style parks can go a long way in increasing public access to pleasant outdoor space without needing the city to purchase massive parcels of land. 
 
