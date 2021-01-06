@@ -9,12 +9,9 @@ Zoning and other restrictions have prevented construction of enough
 places for people to live.  We want to fix this and make our community
 a more welcoming and inclusive one. Let’s legalize housing.
 
-We are a chapter of [South Bay YIMBY], who work throughout Santa Clara
-County. We're also affiliated with the following pro-housing organizations: 
-
-- [YIMBY Action], who are based in San Francisco
-- [Peninsula for Everyone], who handle San Mateo County.
-- [California YIMBY], who are focused on Statewide legislation.
+We are a chapter of [South Bay YIMBY], who work throughout Santa Clara County and [YIMBY Action], a 501(c)(4) statewide nonprofit organization (EIN 81-514-0915). We're also affiliated with the following pro-housing organizations: 
+- [Peninsula for Everyone], who handle San Mateo County and the North Peninsula portion of Santa Clara County.  
+- [California YIMBY], who are focused on Statewide legislation.  
 
 [South Bay YIMBY]:https://southbayyimby.wordpress.com/
 [YIMBY Action]:https://yimbyaction.org/
