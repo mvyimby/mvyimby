@@ -24,5 +24,5 @@ Not ready to become a member just yet? [Subscribe to our mailing list], or [part
 <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest=" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-annual?amount=150&default_interval=a&utm_source=direct&utm_campaign=ca_sby_mv_membership_annual" style="max-width: 500px; min-width: 250px; max-height:none!important" width="100%"></iframe>
 
 [Apply for volunteer membership here]:https://yimbyaction.org/volunteer-membership-application/
-[Subscribe to our mailing list]:https://mvyimby.com/page/calendar/
-[participate in an upcoming event]:https://mvyimby.com/page/email/
+[Subscribe to our mailing list]:https://mvyimby.com/page/email/
+[participate in an upcoming event]:https://mvyimby.com/page/calendar/
