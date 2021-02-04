@@ -1,6 +1,6 @@
 ## Yes In My Back Yard
 
-We are Mountain View YIMBY, agitating for more housing in our city and beyond.
+We are Mountain View YIMBY, advocating for more housing in our city and beyond.
 We are Mountain View residents and workers who seek solutions to our area’s
 housing shortage.
 
