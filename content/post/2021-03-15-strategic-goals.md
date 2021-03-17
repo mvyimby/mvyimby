@@ -1,5 +1,5 @@
 ---
-title: Letter to Council on Strategic Plan: Draft Vision, Strategic Priorities, and Potential Projects
+title: Letter to Council on Strategic Plan
 date: 2021-03-15
 draft: false
 type: post
