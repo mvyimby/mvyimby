@@ -14,6 +14,9 @@ pygmentCodeFences = true
 #disqusShortname = "XXX"
 googleAnalytics = "UA-158028362-1"
 
+custom_css = ["css/custom.css"]
+# custom_js = ["js/custom.js"]
+
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
   logo = "/mv-yimby-logo.png"  # TODO: check dimensions and color.
