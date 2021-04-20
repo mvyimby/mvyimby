@@ -14,8 +14,6 @@ pygmentCodeFences = true
 #disqusShortname = "XXX"
 googleAnalytics = "UA-158028362-1"
 
-custom_css = ["css/custom.css"]
-# custom_js = ["js/custom.js"]
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
@@ -28,6 +26,9 @@ custom_css = ["css/custom.css"]
   # TODO: Set up Google Custom Search Engine.
   #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
+  custom_css = ["css/custom.css"]
+  # custom_js = ["js/custom.js"]
+  
 [[Params.bigimg]]
   src = "img/IMG_4009-wide.jpg"
   desc = "Homes"

@@ -27,7 +27,7 @@ If membership dues are a burden, you can qualify for membership by doing a littl
 
 ### Membership
 <script>
-	function openCity(evt, cityName) {
+	function openTab(evt, tabName) {
 	  // Declare all variables
 	  var i, tabcontent, tablinks;
 
@@ -44,24 +44,24 @@ If membership dues are a burden, you can qualify for membership by doing a littl
 	  }
 
 	  // Show the current tab, and add an "active" class to the button that opened the tab
-	  document.getElementById(cityName).style.display = "block";
+	  document.getElementById(tabName).style.display = "inline";
 	  evt.currentTarget.className += " active";
 	}
 
 </script>
 
 <div class="tab">
-<button class="tablinks" onclick="openCity(event, 'Monthly')" id="defaultOpen">Monthly</button>
-<button class="tablinks" onclick="openCity(event, 'Annual')">Annual</button>
+<button class="tablinks" onclick="openTab(event, 'Monthly')" id="defaultOpen">Monthly</button>
+<button class="tablinks" onclick="openTab(event, 'Annual')">Annual</button>
 </div>
 
 <!-- Tab content -->
 <div id="Monthly" class="tabcontent" style="">
-<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-monthly?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_monthly" style="" width="100%" data-donorbox-id="DonorBox-f1"></iframe>
+<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-monthly?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_monthly" style="" width="400px" data-donorbox-id="DonorBox-f1"></iframe>
 </div>
 
 <div id="Annual" class="tabcontent" style="">
-<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-annual?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_annual" style="" width="100%" data-donorbox-id="DonorBox-f1"></iframe>
+<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-annual?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_annual" style="" width="400px" data-donorbox-id="DonorBox-f1"></iframe>
 </div>
 
 
