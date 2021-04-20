@@ -10,18 +10,20 @@ comments: false
 Want to help make abundant housing in California a reality? There are many ways you can help!
 
 1. Come to our next [Mountain View YIMBY Monthly meeting] via Zoom.
-2. Subscribe to our mailing list to hear about upcoming advocacy opportunities! 
+2. [Subscribe to our mailing list] to hear about upcoming advocacy opportunities! 
 3. Consider paying membership dues. (See donation details section below)
 
-Mountain View YIMBY is a chapter of YIMBY Action. As a member of YIMBY Action, you'll have access to a nation-wide online community of YIMBYs, as well as eligibility to vote on election endorsements. Membership dues help pay for resources and staff that help our grassroots organization punch above our weight.
+You can also checkout other upcoming events on [our calendar].
+
 
 ### Donation Details
+Mountain View YIMBY is a chapter of YIMBY Action. YIMBY Action membership dues will give you access to a nation-wide online community of YIMBYs, as well as eligibility to vote on election endorsements.
+
+Membership dues also help pay for resources and staff that enable our grassroots organization punch above our weight.
 
 You can make a membership donation on a monthly basis or a yearly basis, and the donation amount is flexible to accommodate different financial circumstances.  
 
 If membership dues are a burden, you can qualify for membership by doing a little volunteer work. [Apply for volunteer membership here].
-
-Not ready to become a member just yet? [Subscribe to our mailing list], or [participate in an upcoming event].
 
 ### Membership
 <script>
@@ -73,5 +75,5 @@ document.getElementById("defaultOpen").click();
 
 [Apply for volunteer membership here]:https://yimbyaction.org/volunteer-membership-application/
 [Subscribe to our mailing list]:https://mvyimby.com/page/email/
-[participate in an upcoming event]:https://mvyimby.com/page/calendar/
+[our calendar]:https://mvyimby.com/page/calendar/
 [Mountain View YIMBY Monthly meeting]:https://us02web.zoom.us/meeting/register/tZArce6vrT8pEtD2yOHoMuTG98mq2WGsVPEm
