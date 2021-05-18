@@ -1,5 +1,5 @@
 ---
-title: Re: Welcome to the City of Mountain View!
+title: Welcome to the City of Mountain View!
 date: 2021-04-19
 draft: false
 type: post
