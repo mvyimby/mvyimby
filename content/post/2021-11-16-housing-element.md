@@ -6,11 +6,6 @@ type: post
 author: Salim Damerdji
 ---
 
-<style type="text/css">
-   ol {list-style-type: decimal;}
-   ol ol { list-style-type: lower-alpha;}
-</style> 
-
 Dear Mayor Kamei and Members of the City Council,
 
 Mountain View YIMBY would like to provide comments for Item 3.1 Housing Element.
@@ -48,3 +43,9 @@ Best regards,
 Salim Damerdji
 
 On behalf of Mountain View YIMBY
+
+<style type="text/css">
+   ol {list-style-type: decimal;}
+   ol ol { list-style-type: lower-alpha;}
+</style> 
+
