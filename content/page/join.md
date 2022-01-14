@@ -25,51 +25,35 @@ You can make a membership donation on a monthly basis or a yearly basis, and the
 
 If membership dues are a burden, you can qualify for membership by doing a little volunteer work. [Apply for volunteer membership here].
 
-### Membership
-<script>
-	function openTab(evt, tabName) {
-	  // Declare all variables
-	  var i, tabcontent, tablinks;
+### Membership - Monthly
 
-	  // Get all elements with class="tabcontent" and hide them
-	  tabcontent = document.getElementsByClassName("tabcontent");
-	  for (i = 0; i < tabcontent.length; i++) {
-	    tabcontent[i].style.display = "none";
-	  }
-
-	  // Get all elements with class="tablinks" and remove the class "active"
-	  tablinks = document.getElementsByClassName("tablinks");
-	  for (i = 0; i < tablinks.length; i++) {
-	    tablinks[i].className = tablinks[i].className.replace(" active", "");
-	  }
-
-	  // Show the current tab, and add an "active" class to the button that opened the tab
-	  document.getElementById(tabName).style.display = "inline";
-	  evt.currentTarget.className += " active";
-	}
-
-</script>
-
-<div class="tab">
-<button class="tablinks" onclick="openTab(event, 'Monthly')" id="defaultOpen">Monthly</button>
-<button class="tablinks" onclick="openTab(event, 'Annual')">Annual</button>
+<div>
+<!-- Fundraise Up: world-class checkout experience for serious online fundraising -->
+<script>(function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track'
+.split(','),i,o=function(n){return'function'==typeof n?o.l.push([arguments])&&o
+:function(){return o.l.push([n,arguments])&&o}},t=d.getElementsByTagName(s)[0],
+j=d.createElement(s);j.async=!0;j.src='https://cdn.fundraiseup.com/widget/'+a;
+t.parentNode.insertBefore(j,t);o.s=Date.now();o.v=4;o.h=w.location.href;o.l=[];
+for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
+})(window,document,'script','FundraiseUp','AHJNMUNZ');</script>
+<!-- End Fundraise Up --> 
+<a href="#XCRFBLVD" style="display: none"></a>
 </div>
 
-<!-- Tab content -->
-<div id="Monthly" class="tabcontent" style="">
-<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-monthly?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_monthly" style="" width="400px" data-donorbox-id="DonorBox-f1"></iframe>
+### Membership - Yearly
+
+<div>
+<!-- Fundraise Up: world-class checkout experience for serious online fundraising -->
+<script>(function(w,d,s,n,a){if(!w[n]){var l='call,catch,on,once,set,then,track'
+.split(','),i,o=function(n){return'function'==typeof n?o.l.push([arguments])&&o
+:function(){return o.l.push([n,arguments])&&o}},t=d.getElementsByTagName(s)[0],
+j=d.createElement(s);j.async=!0;j.src='https://cdn.fundraiseup.com/widget/'+a;
+t.parentNode.insertBefore(j,t);o.s=Date.now();o.v=4;o.h=w.location.href;o.l=[];
+for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
+})(window,document,'script','FundraiseUp','AHJNMUNZ');</script>
+<!-- End Fundraise Up -->
+<a href="#XPYGYWND" style="display: none"></a>
 </div>
-
-<div id="Annual" class="tabcontent" style="">
-<iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/yimby-membership-annual?amount=15&amp;default_interval=m&amp;utm_source=direct&amp;utm_campaign=ca_sby_mv_membership_annual" style="" width="400px" data-donorbox-id="DonorBox-f1"></iframe>
-</div>
-
-
-
-<script>
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
 
 
 
