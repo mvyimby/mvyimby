@@ -12,4 +12,4 @@ We eagerly anticipate the release of further plans for transportation, as part o
 
 [reported]:https://mv-voice.com/news/2021/02/04/google-submits-plans-to-build-7000-homes-in-north-bayshore-the-largest-project-in-citys-history
 [preliminary plan]:https://realestate.withgoogle.com/northbayshore/
-[Middlefield Park]:https://mvyimby.com/post/2021-02-03-google-middlefield-park-master-plan/
+[Middlefield Park]:/post/2021-02-03-google-middlefield-park-master-plan/
