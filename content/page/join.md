@@ -58,6 +58,6 @@ for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
 
 
 [Apply for volunteer membership here]:https://yimbyaction.org/volunteer-membership-application/
-[Subscribe to our mailing list]:https://mvyimby.com/page/email/
-[our calendar]:https://mvyimby.com/page/calendar/
+[Subscribe to our mailing list]:/page/email/
+[our calendar]:/page/calendar/
 [Mountain View YIMBY Monthly meeting]:https://us02web.zoom.us/meeting/register/tZArce6vrT8pEtD2yOHoMuTG98mq2WGsVPEm

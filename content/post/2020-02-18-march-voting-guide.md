@@ -8,7 +8,7 @@ author: Mountain View YIMBY
 
 If you've been following the news, you've certainly noticed that it's primary voting season again. When you're making your decision for nominee for president, don't forget that there's exciting races down the ballot as well!
 
-## Senate District 13: **[Shelly Masur](http://mvyimby.com/post/2020-02-09-endorsements/)**
+## Senate District 13: **[Shelly Masur](/post/2020-02-09-endorsements/)**
 
 Shelly Masur has a history of supporting affordable housing production in Redwood City and is a self-identified YIMBY and a supporter of SB 50. This makes her the clear YIMBY choice for SD13.
 
