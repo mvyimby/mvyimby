@@ -10,12 +10,12 @@ By January 31, 2023, the City of Mountain View must identify sites and policies 
 The Mountain View YIMBY Housing Element Working Group meets monthly during this process to identify sites and policies to enable those homes. This process is complicated, even for the most adept housing advocates. That's why we're committing to breaking down the content and making it more accessible for all. Join us at contact@mvyimby.com
 
 ## [Housing Element Upcoming Schedule]
-* Initial Site Inventory and Policies Study Sessions
-  * Environmental Planning Commission: Wednesday, February 16, 7-8pm
-  * City Council: Tuesday, March 8, 5-6pm
-* Public Review Draft Housing Element Study Sessions ([Dates Tentative])
-  * Environmental Planning Commission: April
-  * City Council: May
+* ~~Initial Site Inventory and Policies Study Sessions~~
+  * ~~Environmental Planning Commission: Wednesday, February 16, 7-8pm~~
+  * ~~City Council: Tuesday, March 8, 5-6pm~~
+* Public Review Draft Housing Element Study Sessions
+  * ~~Environmental Planning Commission: [May 18th]~~
+  * City Council: [June 14th] (Tentative)
 * HCD Review Period ([Maximum 90 Days])
 * City Corrections
 * HCD Submission
@@ -32,7 +32,8 @@ In a process called the Regional Housing Needs Allocation ([RHNA]), the state's 
 [Housing Element]:https://www.hcd.ca.gov/community-development/housing-element/index.shtml
 [Failure]:https://www.fairhousingelements.org/s/YIMBY-HE-Compliance_v2.pdf
 [Housing Element Upcoming Schedule]:https://www.mvhousingelement.org/get-involved
-[Dates Tentative]:https://mountainview.legistar.com/LegislationDetail.aspx?ID=5388682&GUID=01D8E488-296E-4EA8-BB24-F29C931CB7B0
+[May 18th]:https://mountainview.legistar.com/LegislationDetail.aspx?ID=5652880&GUID=DB3408B3-846E-4E15-B578-986322ACF12A&Options=ID|Text
+[June 14th]:https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=14174
 [Maximum 90 Days]:https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB215
 [RHNA]:https://www.hcd.ca.gov/community-development/rhna/index.shtml
 [plan]:https://abag.ca.gov/sites/default/files/documents/2021-12/Final_RHNA_Allocation_Report_2023-2031-approved_0.pdf#page=30
