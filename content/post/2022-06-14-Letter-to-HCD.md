@@ -1,9 +1,9 @@
 ---
 title: Regarding Mountain View Draft 2023-2031 Housing Element 
-date: 2022-06-10
+date: 2022-06-14
 draft: false
 type: post
-author: Michael Abramson, Pardis Beikzadeh, Ilya Gurin
+author: Pardis Beikzadeh, David Watson, Salim Damerdji, James Kuszmaul
 ---
 
 <style type="text/css">
@@ -65,40 +65,35 @@ This section goes into some more detail on the points discussed in the previous 
 
 Firstly, referencing racial disparities in local Elementary Schools, the following is the current Elementary School boundaries (note that Huff has since been renamed to Amy Imai), from Figure 66 in the Housing Element Draft:
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![school boundaries](img/school_boundaries.png)
+![school boundaries](/img/school_boundaries.png)
 
 And the below diagram provides data and the racial makeup of each school’s enrollment:
 
-![student race by school](img/student_race.png)
+![student race by school](/img/student_race.png)
 
 For additional reference, consider Figure 37 of the draft Housing Element showing the distribution of Hispanic/Latino population within Mountain View:
 
-![Census block percent hispanic or latino](img/census_block_pct_latino.png)
+![Census block percent hispanic or latino](/img/census_block_pct_latino.png)
 
 When compared to the HCD Opportunity Map (Figure 64 from the report), we can see that Mariano Castro’s catchment corresponds with the one “Moderate Resource” area in Mountain View, while Amy Imai Elementary corresponds almost entirely with “Highest Resource” areas, with Bubb (the second lowest Hispanic/Latino enrollment school with a regular geographic area—note that Stevenson is a “choice school”) consisting entirely of “Highest Resource” tracts:
 
-![census block opportunity map](img/census_block_opportunity.png)
+![census block opportunity map](/img/census_block_opportunity.png)
 
 If we compare this to Mountain View’s current [Zoning Map](https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=10990), we see how large tracts of Mountain View, particularly south of El Camino Real, still forbid multi-family residential developments. Of particular note is that Mountain View High School—the only public high school in the city[^7]—is in the far Southeastern corner of the city, meaning that one of the highest resource, least affordable areas of the city is also the area of the city whose children have the safest and easiest access to the High School.
 
-![Mountain View Zoning](img/mv_zones.png)
+![Mountain View Zoning](/img/mv_zones.png)
 
 The main exception to this rule is the area in the immediate vicinity of El Camino Real (which is also likely the main reason Bubb & Amy Imai do not have even more extreme enrollment disparities). This forces people looking for housing at price-points below that of a multi-million dollar single family home into living immediately adjacent to one of the busiest traffic[^8] corridors in the city, with high levels of air pollution[^9], noise pollution[^10], and immediately along one of our highest injury corridors in the city[^11]. 
 
 If we review the draft site inventory (Figure 87 from the draft Housing element), we see that it largely perpetuates these issues, leaving most of the southern portions of Mountain View unchanged, and outside the key pipeline projects in the North Bayshore and East Whisman areas (both of which have very little housing currently, beyond a mobile home park in North Bayshore), much of the site inventory is focused along parcels immediately along El Camino Real:
 
-![Housing Site Overview](img/housing_site_overview.png)
+![Housing Site Overview](/img/housing_site_overview.png)
 
 There are three main exceptions to this—the two village center sites south of El Camino, and the Cuesta Annex. While developing these would represent some movement in the right direction, focusing overly much on a couple of large sites still maintains the large neighborhoods of extremely unaffordable (and, by extension, exclusionary) housing. It should also be noted that attempts to use the Cuesta Annex site for a flood basin in the past met with [intense local opposition](https://www.mv-voice.com/news/2012/11/14/cuesta-annex-no-flood-basin-proposed) and an attempt to build teacher housing at Cooper Park in the catchment area for Amy Imai Elementary met with such strong local opposition that the Mountain View City Council at the time chose to instead aim to build the housing as part of a larger project in a less-affluent and more diverse part of the city[^12]. It is likely that any planned developments in these areas will meet with local opposition, and the city will need to have a plan to deal with it. This is why we propose tracking whether sites in more-affluent areas are being developed at a lower rate than those in the rest of the city.
 
 The other key area of Mountain View where existing land-use restrictions needlessly reduce availability of multi-family housing are some of the neighborhoods around downtown. For reference, zooming in on the zoning map from earlier: 
 
-![Downtown Mountain View Zones](img/mv_downtown_zoning.png)
+![Downtown Mountain View Zones](/img/mv_downtown_zoning.png)
 
 This is arguably _the_ highest amenity part of Mountain View, with the downtown transit center at the north end of Castro St, El Camino Real with Mountain View’s only frequent bus lines, and the entirety of the downtown area with its variety of restaurants, offices, and sundry retail. However, most of the land nearest downtown outside of the precise plan area itself (in gray), is currently zoned R1. While this is a less blatant example of spatial segregation than the neighborhoods south of El Camino Real (because the areas of R1 zoning are not quite so large), this still creates a bizarre situation where much of the densest and most affordable housing in the city (towards the top-left of that map, along California St) is actually farther from key amenities than lower-density housing, which unnecessarily increases the travel time for commutes, errands, and leisure trips for people who cannot afford a single-family home. Currently, none of the R1 areas between El Camino Real and Central Expressway in that view are planned for any additional housing as part of the site inventory.
 
@@ -111,7 +106,7 @@ In this section we detail the various constraints to housing production in Mount
 
 The following graph shows that **the overall cost of developing a unit of housing is currently $220,000 more expensive than the Supportable Cost, the threshold for economic feasibility.**
 
-![Total Development Costs](img/total_development_costs.png)
+![Total Development Costs](/img/total_development_costs.png)
 
 #### Methodology
 
@@ -265,7 +260,7 @@ Furthermore, we will not be able to accommodate multifamily housing in high oppo
 
 Currently, the city addresses this economic feasibility gap with office-housing linkages and bonus office FAR for multifamily projects in certain precise plans. In effect, new office development subsidizes the cost of building housing in East Whisman, as was described in Mountain View Voice’s 2022 article entitled “Mountain View approves fees on housing already considered too costly to build.”[^26] The same is true for the North Bayshore Master Plan, which the housing element draft fails to note is primarily an office development project from Google’s economic point of view. Without the office, there is no housing.
 
-![Jobs Household Ratio](img/jobs_household_ratio.png)
+![Jobs Household Ratio](/img/jobs_household_ratio.png)
 
 Because housing is infeasible to build without office development to subsidize it, the result of this decades-long strategy is that the city’s jobs-housing imbalance continues to grow, with additional displacement pressures for renters.[^27] This is not just a local AFFH issue, but a regional one, as our jobs-housing imbalance creates supercommuters and displacement pressures in other Santa Clara County communities. To resolve this issue, the city should make housing feasible to build without needing to rely on office construction.
 
