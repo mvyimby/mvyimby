@@ -11,13 +11,11 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
 googleAnalytics = "UA-158028362-1"
-
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"
-  logo = "/mv-yimby-logo.png"  # TODO: check dimensions and color.
+  logo = "/mv-yimby-logo.png"
   favicon = "/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -32,39 +30,19 @@ googleAnalytics = "UA-158028362-1"
 [[Params.bigimg]]
   src = "img/IMG_4009-wide.jpg"
   desc = "Homes"
+
 [[Params.bigimg]]
   src = "img/IMG_4213-wide.jpg"
   desc = "Homes and Trees"
+
 [[Params.bigimg]]
   src = "img/IMG_7781-wide.jpg"
   desc = "Homes and Transit"
 
 [Author]
-  name = "David Watson"
+  name = "MV YIMBY Leads"
   twitter = "MVyimby"
   facebook = "mvyimby"
-
-  # External references we might have in the future?
-  # reddit = "username"
-  # snapchat = "username"
-  # instagram = "username"
-  # youtube = "user/username" # or channel/channelname
-
-  # External references we'll probably never have.
-  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx  # Very dead.
-  # We actually do have these but I doubt we'd need to point people to them,
-  # unless maybe if we started drafting docs collaboratively with the public.
-  # gitlab = "username"
-  # github = "username"
-  # linkedin = "username"
-  # xing = "username"
-  # stackoverflow = "users/XXXXXXX/username"
-  # Leaving my dream of woke YIMBY mixtapes at the door :'( .
-  # soundcloud = "username"
-  # spotify = "username"
-  # bandcamp = "username"
-  # itchio = "username"
-  # keybase = "username"
 
 # To allow Youtube Embeds, among other things
 # see: https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
@@ -81,11 +59,6 @@ googleAnalytics = "UA-158028362-1"
     url = "page/about/"
     weight = 3
 
-# [[menu.main]]
-#     identifier = "2020 Endorsements"
-#     name = "Samples"
-#     weight = 2
-
 [[menu.main]]
     name = "Calendar"
     url = "page/calendar/"
@@ -100,14 +73,3 @@ googleAnalytics = "UA-158028362-1"
     name = "Join"
     url = "page/join/"
     weight = 2
-
-# [[menu.main]]
-#     parent = "samples"
-#     name = "Code Sample"
-#     url = "post/2016-03-08-code-sample"
-#     weight = 3
-
-# [[menu.main]]
-#     name = "Tags"
-#     url = "tags"
-#     weight = 3
