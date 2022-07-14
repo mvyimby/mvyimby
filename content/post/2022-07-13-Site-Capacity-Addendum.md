@@ -162,8 +162,7 @@ In this appendix, we analyze each category with data and present our findings.
 
 
 
-1. 
-Pending Projects Capacity 
+### A: Pending Projects Capacity 
 
 #### Table A1. Pending Projects Capacity Analysis Breakdown
 
@@ -257,8 +256,7 @@ HCD has the discretion to evaluate whether _future_ land dedications constitute 
 
 
 
-2. 
-Opportunity Sites
+### B: Opportunity Sites
 
 #### Table B1. Opportunity Site Capacity Analysis Breakdown
 
@@ -556,8 +554,7 @@ On page 215, the City notes that seven “prior Housing Element sites” have be
 
 
 
-3. 
-ADUs
+### C: ADUs
 
 #### Table C1. ADU Capacity Analysis Breakdown
 
