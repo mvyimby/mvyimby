@@ -11,7 +11,9 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-googleAnalytics = "UA-158028362-1"
+# googleAnalytics = "UA-158028362-1"
+googleAnalytics = "AW-981091562"
+
 
 [Params]
   subtitle = "A positive vision for housing in Mountain View"

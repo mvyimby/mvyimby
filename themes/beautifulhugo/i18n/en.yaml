@@ -6,7 +6,7 @@
 - id: postedOnDate
   translation: "Posted on {{ . }}"
 - id: lastModified
-  translation: "(Last modified on {{ .Count }})"
+  translation: "(Last modified on {{ . }})"
 - id: translationsLabel
   translation: "Other languages: "
 - id: translationsSeparator
@@ -61,7 +61,7 @@
 - id: yourEmail
   translation: "Your email address"
 - id: yourWebsite
-  translation: "You website"
+  translation: "Your website"
 
 # Delayed Disqus
 - id: show
