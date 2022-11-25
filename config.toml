@@ -11,8 +11,7 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-# googleAnalytics = "UA-158028362-1"
-gtag_id = "AW-981091562"
+googleAnalytics = "UA-158028362-1"
 
 
 [Params]
@@ -28,6 +27,8 @@ gtag_id = "AW-981091562"
 
   custom_css = ["css/custom.css"]
   # custom_js = ["js/custom.js"]
+  gtag_id = "AW-981091562"
+  
   
 [[Params.bigimg]]
   src = "img/IMG_4009-wide.jpg"
