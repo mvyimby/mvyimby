@@ -20,6 +20,30 @@ The Mountain View YIMBY Housing Element Working Group meets monthly during this 
 * Housing Element [Second Draft December 2022]
 * HCD Submission
 
+## YIMBY's Requests for the Housing Element
+
+### Programs
+
+* Use data-driven approaches for designing city programs targeted at meeting our housing needs allocation such that their efficacy can be objectively measured.
+* Commit to specific recommendations from the [Development Review Study (Matrix)](https://www.mountainview.gov/services/developmentrev/development_review_study.asp)
+* Addition of the Displacement Response Strategy
+
+
+### Production
+
+* Drastically upzone within a half mile of our two Caltrain stations. No unit density limits.
+* Upzone within a half mile of our highest opportunity schools.
+* Policies to address production south of ECR
+* Increase Base FAR and height limit (allowed without Council review) in Precise Plans
+
+
+### Constraints
+
+* Streamline new home approval by eliminating discretionary reviews for housing.
+* Address Constraints found during the R3 Update (refer to Opticos presentation)
+* Remove Parking Minimums from (pick some combination of these asks):
+
+
 ## Mountain View Housing Elementg Needs Allocation
 In a process called the Regional Housing Needs Allocation ([RHNA]), the state's Department of Housing and Community Development (HCD) assigns minimum quotas to various regions based on projected growth, a targeted vacancy rate, existing overcrowding, expected demolitions, and historical cost-burdens. Our region, under the Association of Bay Area Governments (ABAG), then assigned the quota to individual cities and counties based on projected growth, resource richness, proximity to jobs, and economic segregation. From this [plan], Mountain View is assigned:
 * Very Low Income (<50% of Area Median Income): 2,773
