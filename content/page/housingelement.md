@@ -15,12 +15,12 @@ The Mountain View YIMBY Housing Element Working Group meets monthly during this 
   * ~~City Council: Tuesday, March 8, 5-6pm~~
 * Public Review Draft Housing Element Study Sessions
   * ~~Environmental Planning Commission: [May 18th]~~
-  * City Council: [June 14th] (Tentative)
+  * ~~City Council: [June 14th]~~
 * HCD Review Period ([Maximum 90 Days])
-* City Corrections
+* Housing Element [Second Draft December 2022]
 * HCD Submission
 
-## Mountain View Housing Needs Allocation
+## Mountain View Housing Elementg Needs Allocation
 In a process called the Regional Housing Needs Allocation ([RHNA]), the state's Department of Housing and Community Development (HCD) assigns minimum quotas to various regions based on projected growth, a targeted vacancy rate, existing overcrowding, expected demolitions, and historical cost-burdens. Our region, under the Association of Bay Area Governments (ABAG), then assigned the quota to individual cities and counties based on projected growth, resource richness, proximity to jobs, and economic segregation. From this [plan], Mountain View is assigned:
 * Very Low Income (<50% of Area Median Income): 2,773
 * Low Income (50-80% of AMI): 1,597
@@ -33,8 +33,9 @@ In a process called the Regional Housing Needs Allocation ([RHNA]), the state's 
 [Failure]:https://www.fairhousingelements.org/s/YIMBY-HE-Compliance_v2.pdf
 [Housing Element Upcoming Schedule]:https://www.mvhousingelement.org/get-involved
 [May 18th]:https://mountainview.legistar.com/LegislationDetail.aspx?ID=5652880&GUID=DB3408B3-846E-4E15-B578-986322ACF12A&Options=ID|Text
-[June 14th]:https://www.mountainview.gov/civicax/filebank/blobdload.aspx?BlobID=14174
+[June 14th]:https://mountainview.legistar.com/MeetingDetail.aspx?ID=906836&GUID=B74E1B69-DA0B-4BD1-A540-CC5800FCDCAF&Options=info|&Search=
 [Maximum 90 Days]:https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB215
 [RHNA]:https://www.hcd.ca.gov/community-development/rhna/index.shtml
 [plan]:https://abag.ca.gov/sites/default/files/documents/2021-12/Final_RHNA_Allocation_Report_2023-2031-approved_0.pdf#page=30
 [Area Median Income]:https://www.hcd.ca.gov/grants-funding/income-limits/state-and-federal-income-limits.shtml
+[Second Draft]:https://static1.squarespace.com/static/6022eff36cb23905ed1d5b1c/t/63a4f334ee95f01df8711596/1671754571620/DRAFT+Mountain+View+2023-2031+HEU+12+22+2022.pdf
