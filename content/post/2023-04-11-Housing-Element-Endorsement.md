@@ -3,7 +3,7 @@ title: Agenda Item 6.1 - 2023-2031 Housing Element Adoption
 date: 2023-04-11
 draft: false
 type: post
-author: Salim
+author: Salim Damerdji
 ---
 
 I am pleased to write on behalf of Mountain View YIMBY that **our organization strongly**
