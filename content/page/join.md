@@ -9,9 +9,8 @@ comments: false
 
 Want to help make abundant housing in California a reality? There are many ways you can help!
 
-1. Come to our next [Mountain View YIMBY Monthly meeting] via Zoom.
-2. [Subscribe to our mailing list] to hear about upcoming advocacy opportunities! 
-3. Consider paying membership dues. (See donation details section below)
+ - [Subscribe to our mailing list] to hear about upcoming advocacy opportunities! 
+ - Consider paying membership dues. (See donation details section below)
 
 You can also checkout other upcoming events on [our calendar].
 
@@ -60,4 +59,3 @@ for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
 [Apply for volunteer membership here]:https://yimbyaction.org/volunteer-membership-application/
 [Subscribe to our mailing list]:/page/email/
 [our calendar]:/page/calendar/
-[Mountain View YIMBY Monthly meeting]:https://us02web.zoom.us/meeting/register/tZArce6vrT8pEtD2yOHoMuTG98mq2WGsVPEm
