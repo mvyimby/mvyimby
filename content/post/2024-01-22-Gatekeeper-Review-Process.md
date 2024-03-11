@@ -1,5 +1,5 @@
 ---
-title: Thanks for Approving NBS Housing
+title: Agenda item 7.3 – Gatekeeper Review Process
 date: 2024-01-22
 draft: false
 type: post
