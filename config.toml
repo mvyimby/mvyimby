@@ -22,6 +22,9 @@ googleAnalytics = "UA-158028362-1"
   commit = false
   rss = true
   comments = true
+  author = "MV YIMBY Leads"
+  twitter = "MVyimby"
+  facebook = "mvyimby"
   # TODO: Set up Google Custom Search Engine.
   #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
