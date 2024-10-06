@@ -1,6 +1,6 @@
 ---
 title: MV YIMBY Endorses Pat Showalter, Chris Clark, Devon Conley, and Emily Ann Ramos for Mountain View City Council
-date: 2024-01-22
+date: 2024-10-05
 draft: false
 type: post
 author: David Watson and James Kuszmaul on behalf of MV YIMBY
