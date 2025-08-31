@@ -2,7 +2,7 @@
 
 ---
 
-# Welcome to the Mountain View YIMBY GitLab Repository
+# Welcome to the Mountain View YIMBY GitLab Repository!
 
 Example [Hugo] website using GitLab Pages.
 
