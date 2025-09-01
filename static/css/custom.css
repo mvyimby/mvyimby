@@ -1,3 +1,10 @@
+/* Make the main page heading and subheading not show text cursor */
+.page-heading h1,
+.page-subheading {
+  cursor: default;
+  user-select: none; /* Also prevents text selection for this element */
+}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
