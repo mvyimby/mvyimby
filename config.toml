@@ -80,7 +80,3 @@ googleAnalytics = "UA-158028362-1"
     url = "/join/"
     weight = 2
 
-[[menu.main]]
-    name = "Donate"
-    url = "/donate/"
-    weight = 4
