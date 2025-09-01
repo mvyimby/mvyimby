@@ -11,7 +11,8 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-googleAnalytics = "UA-158028362-1"
+# googleAnalytics = "UA-158028362-1"  # Old Universal Analytics - deprecated July 2023
+googleAnalytics = "G-11G1FLVFKS"
 
 
 [Params]
