@@ -18,4 +18,16 @@ Want to help make abundant housing in California a reality? There are many ways 
 
 ### Mailing List Signup
 
-<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/join-mvyimby?format=js&source=widget'></script><div id='can-form-area-join-mvyimby' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+<link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />
+
+<script>
+// Get URL parameters
+const urlParams = new URLSearchParams(window.location.search);
+const referrer = urlParams.get('source') || 'website'; // Using 'source' param but passing as 'referrer'
+
+// Create the script URL with dynamic referrer
+const widgetUrl = `https://actionnetwork.org/widgets/v4/form/join-mvyimby?format=js&source=widget&referrer=${encodeURIComponent(referrer)}`;
+document.write('<script src="' + widgetUrl + '"><\/script>');
+</script>
+
+<div id='can-form-area-join-mvyimby' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
