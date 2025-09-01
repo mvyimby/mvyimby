@@ -56,27 +56,27 @@ googleAnalytics = "UA-158028362-1"
   unsafe= true
 
 [[menu.main]]
-    name = "Posts"
-    url = ""
+    name = "Get Involved"
+    url = "/join/"
     weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
 
 [[menu.main]]
     name = "Calendar"
     url = "/calendar/"
-    weight = 1
+    weight = 2
+
+[[menu.main]]
+    name = "Posts"
+    url = ""
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
 
 [[menu.main]]
     name = "Resources"
     url = "/resources/"
-    weight = 1
-
-[[menu.main]]
-    name = "Get Involved"
-    url = "/join/"
-    weight = 2
+    weight = 5
 
