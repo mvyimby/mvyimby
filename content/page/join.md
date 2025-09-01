@@ -3,6 +3,7 @@ title: Join Us
 date: 2019-01-01
 subtitle: Mountain View YIMBY
 comments: false
+url: /join/
 ---
 
 ### Why Join Us?
@@ -57,5 +58,5 @@ for(i=0;i<7;i++)o[l[i]]=o(l[i]);w[n]=o}
 
 
 [Apply for volunteer membership here]:https://yimbyaction.org/volunteer-membership-application/
-[Subscribe to our mailing list]:/page/email/
-[our calendar]:/page/calendar/
+[Subscribe to our mailing list]:/email/
+[our calendar]:/calendar/

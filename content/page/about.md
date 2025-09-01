@@ -3,6 +3,7 @@ title: About Us
 date: 2023-03-01
 subtitle: Mountain View YIMBY
 comments: false
+url: /about/
 ---
 
 We are Mountain View YIMBY, advocating for more housing in our city and beyond. We are pro-housing activists fighting for more inclusive housing policies and a future of abundant housing in Mountain View. We drive policy change to increase the supply of housing at all levels and bring down the cost of living in our thriving city. We support a full spectrum of new housing: supportive housing for the homeless, subsidized housing, social housing, even market rate condos!

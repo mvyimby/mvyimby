@@ -62,20 +62,20 @@ googleAnalytics = "UA-158028362-1"
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "/about/"
     weight = 3
 
 [[menu.main]]
     name = "Calendar"
-    url = "page/calendar/"
+    url = "/calendar/"
     weight = 1
 
 [[menu.main]]
     name = "Housing Element"
-    url = "page/housingelement/"
+    url = "/housing-element/"
     weight = 1
 
 [[menu.main]]
     name = "Join"
-    url = "page/join/"
+    url = "/join/"
     weight = 2

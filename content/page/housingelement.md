@@ -3,6 +3,7 @@ title: Housing Element
 date: 2021-09-06
 subtitle: Planning for 11,135+ New Homes
 comments: false
+url: /housing-element/
 ---
 
 By January 31, 2023, the City of Mountain View must identify sites and policies for at least 11,135 new homes to be built between 2023 and 2031. The city does not have to build these homes directly, but it must make them feasible. These sites and policies will form the [Housing Element], which the City Council approves and the state certifies. [Failure] to create a compliant Housing Element disqualifies the city from state grants and can even go as far as suspend local land use power.
