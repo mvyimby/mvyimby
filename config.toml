@@ -71,8 +71,8 @@ googleAnalytics = "UA-158028362-1"
     weight = 1
 
 [[menu.main]]
-    name = "Housing Element"
-    url = "/housing-element/"
+    name = "Resources"
+    url = "/resources/"
     weight = 1
 
 [[menu.main]]
