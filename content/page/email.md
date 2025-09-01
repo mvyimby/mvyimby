@@ -1,9 +1,21 @@
 ---
-title: Join Us
+title: Get Involved
 date: 2019-01-01
 subtitle: Mountain View YIMBY
 comments: false
-url: /email/
+url: /join/
 ---
+
+### How You Can Help
+
+Want to help make abundant housing in California a reality? There are many ways you can help!
+
+- **Join Our Mailing List**: Stay informed about housing issues and upcoming events (see form below)
+- **Volunteer with YIMBY Action**: Join the statewide movement! [Apply for volunteer membership here](https://yimbyaction.org/volunteer-membership-application/)
+- **Attend Events**: Check out [our calendar](/calendar/) for upcoming meetings, advocacy events, and community gatherings
+- **Support Us Financially**: Your donations help fund our advocacy work. [Visit our donation page](/donate/) to contribute
+- **Spread the Word**: Follow us on [Facebook](https://www.facebook.com/mvyimby) and [X @mvyimby](https://twitter.com/mvyimby), and share our content to help build the movement for housing abundance
+
+### Join Our Mailing List
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/join-mvyimby?format=js&source=widget'></script><div id='can-form-area-join-mvyimby' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
